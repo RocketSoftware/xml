@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- (c) Copyright 2022 Micro Focus or one of its affiliates. -->
+<!-- (C)  2022—2025 Rocket Software, Inc. or its affiliates. All Rights Reserved. -->
 <xsd:schema elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://xml.microfocus.com/schema/cobol/v2.0/mfcobol.xsd" xmlns="http://xml.microfocus.com/schema/cobol/v2.0/mfcobol.xsd">
 	<xsd:element name="program" type="programType" />
 	<xsd:complexType name="programType">
